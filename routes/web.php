@@ -1,13 +1,13 @@
 <?php
 
 Route::get('/', function () {
-    return view('pages/welcome');
+    return view('/pages/welcome');
 });
 Route::get('/pages/index', function() {
-    return view('pages/index');
+    return view('/pages/index');
 });
 Route::get('/pages/student', function() {
-    return view('pages/student');
+    return view('/pages/student');
 });
 Route::get('/pages/welcome', function() {
     return view('pages/welcome');
