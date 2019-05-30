@@ -10,7 +10,7 @@
 
 	<div class="limiter">
 		<div class="container-login100">
-			<div class="wrap-login100">
+			<div class="wrap-login100">	
 				<div class="login100-pic js-tilt" data-tilt>
 					<img src="/images/img-01.png" alt="IMG">
 				</div>
@@ -24,7 +24,7 @@
 						<input class="input100" type="text" name="username" placeholder="Username">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
-							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
 					</div>
 
